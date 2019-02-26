@@ -1,0 +1,4 @@
+id,parent,direction,metric,connector,subject
+1,,minimize,effort,of,managing a product
+2,,maximize,something,of,something
+3,2,minimize,something eles,to,somebody

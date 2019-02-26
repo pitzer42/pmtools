@@ -1,0 +1,6 @@
+digraph {
+	"minimize effort of managing a product"
+	"maximize something of something"
+	"minimize something eles to somebody"
+	"minimize something eles to somebody" -> "maximize something of something"
+}
